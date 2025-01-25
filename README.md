@@ -19,7 +19,7 @@ descobrir qual será o seu amigo secreto.**
   
   <h4>Layout do jogo:</h4>
   <img width="500" src="https://github.com/marisouza31/Amigo-secreto/blob/main/README/Layout do jogo Alura.png"><br>
-
+   Fonte: Alura💙
 </div>
 
 ##
