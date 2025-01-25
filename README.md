@@ -1,1 +1,1 @@
-# Amigo-secreto
+# Jogo do Amigo secreto
