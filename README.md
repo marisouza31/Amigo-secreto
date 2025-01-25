@@ -1,5 +1,6 @@
 # Jogo do Amigo secreto
 Challenge da Alura 💪💙
+##
 
 **Desafio proposto pela Alura:**
 
@@ -12,3 +13,13 @@ sem se preocupar com a estrutura visual do projeto.
 Como o front-end do jogo já está pronto é preciso realizar apenas o back-end, ele deverá funcionar da seguinte forma:
 **O usuário poderá adicionar quantos amigos quiser ao jogo, logo após, esse mesmo usuário deverá realizar o sorteio para 
 descobrir qual será o seu amigo secreto.**
+##
+
+<div align="center">
+  
+  <h4>Layout do jogo:</h4>
+  <img width="500" src="https://github.com/marisouza31/BabyD/blob/main/README/home.png"><br>
+
+</div>
+
+##
