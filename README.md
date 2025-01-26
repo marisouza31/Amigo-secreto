@@ -24,13 +24,6 @@ descobrir qual será o seu amigo secreto.**
 
 ##
 
-<div align="center">
-<h4>Tecnologias utilizadas:</h4>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" width="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" width="40" />
-          
-</div>
-
 # Nova adaptação do Jogo:
 
 <div align="center">
@@ -39,3 +32,20 @@ descobrir qual será o seu amigo secreto.**
   <img width="500" src="https://github.com/marisouza31/Amigo-secreto/blob/main/README/jogo adaptado.png"><br>
    Fonte: Alura💙 e Mariana Ocireu
 </div>
+
+
+**Qual foi a adptação ao jogo?**
+
+A adaptação foi apenas um detalhe, após o usuário adicionar seus amigos para realizar o sorteio, quando a mensagem é exibida na tela, 
+dizendo qual foi o amigo sorteado, o botão em verde: "Novo sorteio" indica que o usuário poderá reiniciar o sorteio novamente quando quiser.
+
+##
+
+<div align="center">
+<h4>Tecnologias utilizadas:</h4>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" width="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" width="40" />
+          
+</div>
+
+# Vídeo do Jogo funcionando:
