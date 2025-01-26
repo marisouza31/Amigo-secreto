@@ -42,6 +42,18 @@ dizendo qual foi o amigo sorteado, o botão em verde: "Novo sorteio" aparece ind
 
 ##
 
+# :hammer: Funcionalidades do projeto
+
+- `Funcionalidade 1`: Permite ao usuário adicionar amigos à lista através de um campo de entrada.
+- `Funcionalidade 2`: Valida se o nome do amigo não está vazio antes de adicionar.
+- `Funcionalidade 3`: Atualiza a lista exibida na interface após cada adição.
+- `Funcionalidade 4`: A lista de amigos é exibida dinamicamente na tela após cada adição, removendo os itens anteriores e mostrando os mais recentes.
+- `Funcionalidade 5`: Realiza um sorteio aleatório de um amigo da lista quando o usuário clica em um botão de sorteio.
+- `Funcionalidade 6`: Exibe o nome do amigo sorteado na tela.
+- `Funcionalidade 7`: Caso a lista esteja vazia, exibe uma mensagem de erro informando que não há amigos para sortear.
+- `Funcionalidade 8`: Após o sorteio, um botão "Novo Sorteio" é exibido.
+- `Funcionalidade 9`: Limpa a lista de amigos, o resultado do sorteio e o botão de novo sorteio, reiniciando todo o processo.
+
 <div align="center">
 <h4>Tecnologias utilizadas:</h4>
 
