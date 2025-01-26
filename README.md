@@ -30,3 +30,12 @@ descobrir qual será o seu amigo secreto.**
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" width="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" width="40" />
           
 </div>
+
+# Nova adaptação do Jogo:
+
+<div align="center">
+  
+  <h4>Layout do jogo:</h4>
+  <img width="500" src="https://github.com/marisouza31/Amigo-secreto/blob/main/README/Layout do jogo Alura.png"><br>
+   Fonte: Alura💙 e Mariana Ocireu
+</div>
