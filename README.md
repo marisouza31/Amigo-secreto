@@ -58,5 +58,5 @@ dizendo qual foi o amigo sorteado, o botão em verde: "Novo sorteio" aparece ind
 
   **Mariana Ocireu:**
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-ocireu-61aa722b3/?)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marianaociz/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marianaocireu@gmail.com)
