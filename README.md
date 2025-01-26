@@ -37,7 +37,7 @@ descobrir qual será o seu amigo secreto.**
 **Qual foi a adptação ao jogo?**
 
 A adaptação foi apenas um detalhe, após o usuário adicionar seus amigos para realizar o sorteio, quando a mensagem é exibida na tela, 
-dizendo qual foi o amigo sorteado, o botão em verde: "Novo sorteio" indica que o usuário poderá reiniciar o sorteio novamente quando quiser.
+dizendo qual foi o amigo sorteado, o botão em verde: "Novo sorteio" aparece indicando que o usuário poderá reiniciar o sorteio novamente quando quiser.
 
 ##
 
